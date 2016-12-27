@@ -17,7 +17,7 @@
                         <div data-form-alert="true">
                             <div class="hide" data-form-alert-success="true">Thanks for Subsribing</div>
                         </div>
-                        <form action="https://mobirise.com/" method="post" data-form-title="CONTACT FORM">
+                        <form action="http://hackathology.net23.net/" method="post" data-form-title="CONTACT FORM">
                             <input type="hidden" value="Flo3Ab/Myc6PxcZfzVawUNYTeW3K8OeRK+b+SOqoTOjz7CGYxS9ZPyvdjCLkd1eRyu9DF57kgGDecAWjEVVcfIE1d5Px5n1kwzYZIkMfanEaglWB4KNGaC22tOxUIYRn" data-form-email="true">
                             <div class="form-group">
                                 <input type="text" class="form-control" name="name" required="" placeholder="Name*" data-form-field="Name">
