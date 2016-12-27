@@ -1,0 +1,66 @@
+body{
+  font-size: 14px;
+  background: #F4F5F2;
+
+}
+.background{
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: 50% 50% no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header .background {
+  background-image: url("../img/bg.jpg");
+  height: 400px;
+  z-index: -1;
+
+}
+
+.header-text {
+  color: #ffffff;
+
+}
+
+
+.navbar{
+  border-radius: 0;
+  position: fixed;
+  width: 100%;
+  padding: 0 20px;
+  z-index: 100;
+
+}
+
+
+.jumbotron {
+  padding: 0; !important;
+  margin: 0;
+  color: #777777;
+  background: #F2F4F5;
+}
+
+
+
+.jumbotron h1{
+  color: #fa5950;
+  font-size: 27px;
+
+}
+
+
+.section-padding{
+  padding-top:  150px;
+
+}
+
+.grey {
+  color: #777777;
+  
+}
