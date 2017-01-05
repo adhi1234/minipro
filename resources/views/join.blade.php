@@ -8,7 +8,7 @@
     <div class="background">&nbsp;  </div>
     <div class="container">
         <div class="header-text">
-          <h1>Learning Laravel is easy </h1>:<br> The fastest web framework:<br>
+          <h1> We are one team</h1>:<br> <br>
 
         </div>
 

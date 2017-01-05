@@ -17,7 +17,7 @@ body{
 }
 
 .header .background {
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/sec.png");
   height: 400px;
   z-index: -1;
 
@@ -62,5 +62,5 @@ body{
 
 .grey {
   color: #777777;
-  
+
 }

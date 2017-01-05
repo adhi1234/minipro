@@ -28,3 +28,10 @@ Route::get('/contact',function()
   return View::make('contact');
 
 });
+
+
+Route::get('/joinus',function()
+{
+  return View::make('join');
+
+});
