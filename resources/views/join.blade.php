@@ -20,7 +20,7 @@
   .<div class="container">
     .<section class="section-padding">
       .<div class="jumbotron text-center">
-        .<h1><span class="grey">Welcome to </span>OurHome</h1>
+        .<h1><span class="grey">Welcome to </span>Project</h1>
 <p>Wanna Learn to Code .Here is the rigt solution that you had found.<p>
 
       </div>

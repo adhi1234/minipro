@@ -2,7 +2,7 @@
  <html lang="en">
  <head>
  <meta charset="UTF-8">
- <title>Learning Laravel Website </title>
+ <title>MINI PROJECT INTRO APP </title>
  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
  <script src="https://code.jquery.com/jquery.js"></script>
  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
@@ -21,7 +21,7 @@
  <span class="icon-bar"></span>
 
  </button>
- <a class="navbar-brand" href="/">Learning Laravel</a>
+ <a class="navbar-brand" href="/">INRO APPLICATION</a>
  </div>
 
  <!-- Collect the nav links, forms, and other content for toggling -->

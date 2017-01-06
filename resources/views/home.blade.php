@@ -8,7 +8,7 @@
     <div class="background">&nbsp;  </div>
     <div class="container">
         <div class="header-text">
-          <h1>Learning Laravel is easy </h1>:<br> The fastest web framework:<br>
+          <h1>MINI PROJECT </h1>:<br> Its just a trailer:<br>
 
         </div>
 
@@ -20,7 +20,7 @@
   .<div class="container">
     .<section class="section-padding">
       .<div class="jumbotron text-center">
-        .<h1><span class="grey">Welcome to </span>OurHome</h1>
+        .<h1><span class="grey">Welcome to </span>Project Page</h1>
 <p>Wanna Learn to Code .Here is the rigt solution that you had found.<p>
 
       </div>
