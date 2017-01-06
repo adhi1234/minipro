@@ -9,7 +9,7 @@
     .<div class="jumbotron text-center">
       .<h1><span class="grey">Welcome to </span>our first intro</h1>
 <p>We will be doing our master project for our college soon.
-  Stay connected..
+  Stay Tuned..
     .<li>Dimal</li>
     .<li>Adarsh</li>
     .<li>Alvin</li>

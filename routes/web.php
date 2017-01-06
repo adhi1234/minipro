@@ -30,6 +30,7 @@ Route::get('/contact',function()
 });
 
 
+
 Route::get('/joinus',function()
 {
   return View::make('join');
