@@ -1,18 +1,21 @@
 @extends('layout')
 @section('content')
-<h1>About Us</h1>
-<p>Learning Laravel is easy for me.Thanks PSN.</p>
+.<div class="head_style">
 
+<h3>About Us</h3> </div>
 
-.<div class="container">
-  .<section class="section-padding">
-    .<div class="jumbotron text-center">
-      .<h1><span class="grey">Welcome to </span>our first intro</h1>
-<p>We will be doing our master project for our college soon.
-  Stay Tuned..
-    .<li>Dimal</li>
-    .<li>Adarsh</li>
-    .<li>Alvin</li>
-    .<li>Dhanya T</li>
-  <p>
+<section class="header">
+  <div class="background"> &nbsp;</div>
+  </section>
+
+<div class="container">
+  <section class="section-padding">
+    <div class="jumbotron text-center">
+      <h1><span class="grey">Welcome to </span>our first intro</h1>
+<p>Online Project Assignment Submission System -Developers On Duty
+<li>Alvin Joseph</li>
+<li>Adarsh</li>
+<li>Dimal</li>
+<li>Dhanya</li>
+  </p>
 @stop
