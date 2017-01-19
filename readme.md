@@ -7,10 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## ONLINE SIM CARD REGISTRATION
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+SIM Card Registration System” is a system which is used by the user for the purpose of managing and saving different SIM Card holders of different service providers. This project provides very sincere way of keeping total details of any Card holders of any service providers and their details. The aim or objective of this project is to handle the all the data of card holders as like their address, phone no., pin code, SIM serial no., SIMcard no., E-mail address etc. by which service provider can easily handle their customers.Proper validation of users provides authenticity of the users.
 
+## FEATURES
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
@@ -21,20 +22,26 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-## Learning Laravel
+## Setting Project Environment:
+- [Install Composer from this link] (https://getcomposer.org).
+- [After installing composer type the command]'''composer global require laravel/installer'''
+-[Type the command '''laravel ''' in the cmd to ensure that laravel batch file has been installed in your system.]
+-[Navigate to the project folder using Command Prompt and type the command '''composer install''']
+-[Use the command php artisan key:generate] for generation of unique in .env file in project folder.
+-[Replace the .env.example file to .env file.]
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+If you are interested in Contributing to our project just email to r4pidassassin@gmail.com.
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+Feel free to report any issues related to our project via email.Follow above method for setting the project in your local machine.
 
-## License
+## DEVELOPMENT team
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+-[Dimal David Joseph]
+-[Dhanya T](https://github.com/DHANYA607)
+-[Alvin Joseph](https://github.com/alvinjosephk)
+-[Adarsh S](https://github.com/adhi1234/)
