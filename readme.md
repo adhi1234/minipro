@@ -29,6 +29,8 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 - Navigate to the project folder using Command Prompt and type the command '''composer install'''().
 - Use the command php artisan key:generate] for generation of unique in .env file in project folder().
 - Replace the .env.example file to .env file.().
+- Navigate to project path and type '''php artisan serve.
+- HAPPY CODING
 
 
 ## Contributing
