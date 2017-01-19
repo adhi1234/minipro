@@ -24,11 +24,11 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## Setting Project Environment:
 - [Install Composer from this link] (https://getcomposer.org).
-- [After installing composer type the command]'''composer global require laravel/installer'''].
--[Type the command '''laravel ''' in the cmd to ensure that laravel batch file has been installed in your system.]
--[Navigate to the project folder using Command Prompt and type the command '''composer install''']
--[Use the command php artisan key:generate] for generation of unique in .env file in project folder.
--[Replace the .env.example file to .env file.]
+- [After installing composer type the command].'''composer global require laravel/installer'''.
+-[Type the command '''laravel ''' in the cmd to ensure that laravel batch file has been installed in your system.].
+-[Navigate to the project folder using Command Prompt and type the command '''composer install'''].
+-[Use the command php artisan key:generate] for generation of unique in .env file in project folder].
+-[Replace the .env.example file to .env file.].
 
 
 ## Contributing
