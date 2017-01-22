@@ -8,7 +8,7 @@
     <div class="background">&nbsp;  </div>
     <div class="container">
         <div class="header-text">
-          <h1>MINI PROJECT </h1>:<br> Its just a trailer:<br>
+          <h1>ONLINE SIM REGISTRATION </h1>:<br>Welcome<br>
 
         </div>
 

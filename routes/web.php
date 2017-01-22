@@ -31,8 +31,8 @@ Route::get('/contact',function()
 
 
 
-Route::get('/joinus',function()
+Route::get('/get_sim',function()
 {
-  return View::make('join');
+  return View::make('get_sim');
 
 });
