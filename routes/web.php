@@ -13,7 +13,7 @@
 
 Route::get('/', function ()
  {
-    return View::make('home');
+    return View::make('welcome');
 });
 
 
@@ -30,9 +30,27 @@ Route::get('/contact',function()
 });
 
 
+Route::get('/choose_sim',function()
+{
+  return View::make('choose_sim');
+
+});
+
+
 
 Route::get('/get_sim',function()
 {
   return View::make('get_sim');
 
+});
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');
+
+
+//controller to be made below;
+Route::get('/user_details',function()
+{
+  return View::make('user_details');
 });

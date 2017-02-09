@@ -27,10 +27,9 @@
  <div class="collapse navbar-collapse" id ="bs-example-navbar-collapse-1">
 
  <ul class="nav navbar-nav navbar-right">
- <li><a href="/">Home</a></li>
- <li><a href="/about">About</a></li>
- <li><a href="/contact">Contact</a></li>
- <li><a href="/get_sim">Get My SIM</a></li>
+ <li><a href="/home">Home</a></li>
+ <li><a href="/choose_sim">Go back</a></li>
+
  </ul>
  </div><!-- /.navbar-collapse -->
  </nav>
