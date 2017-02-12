@@ -1,17 +1,7 @@
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-<<<<<<< HEAD
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-=======
-  <section class="header section-padding">
-    <div class="background">&nbsp;  </div>
-    <div class="container">
-        <div class="header-text">
-          <h1>ONLINE SIM REGISTRATION-WEBSITE </h1>:<br>Welcome<br>
->>>>>>> origin/master
-
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 @extends('layouts.app')
@@ -24,42 +14,28 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in successfully!
                   </div>
 <div class="panel-body">
-  Choose your SIM
+ <center>
+     Choose your SIM
   <div class="row">
-    <div class="col-sm-6 col-md-3">
+    <div class="col-sm-6 col-md-4">
       <a href="/choose_sim" class="thumbnail">
         <img src="img/idea.jpg" alt="IDEA SIM">
       </a>
     </div>
-
-    </div>
-
-
-
-    <div class="row">
-      <div class="col-sm-6 col-md-3">
+      <div class="col-sm-6 col-md-4">
         <a href="/choose_sim" class="thumbnail">
           <img src="img/airtel.jpg" alt="AIRTEL">
         </a>
       </div>
-
-    </div>
-
-
-
-
-    <div class="row">
-    <div class="col-sm-6 col-md-3">
+    <div class="col-sm-7 col-md-4">
       <a href="/choose_sim" class="thumbnail">
-        <img src="img/bsnl.jpg" alt="BSNL SIM">
+        <img src="img/airtel.jpg" alt="BSNL SIM">
       </a>
     </div>
-
-  </div>
-
+</div>
+</center>
 
 </div>
 
