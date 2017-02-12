@@ -11,46 +11,13 @@
 |
 */
 
-Route::get('/', function ()
- {
-    return View::make('welcome');
-});
+Route::get('/','HomeController@index');
 
+Route::get('/about','HomeController@about');
+Route::get('/contact','HomeController@contact');
+Route::get('/choose_sim','HomeController@choose');
+Route::get('/get_sim','HomeController@getsim');
+Route::get('/user_details','HomeController@details');
 
-Route::get('/about',function()
-{
-  return View::make('about');
-
-});
-
-Route::get('/contact',function()
-{
-  return View::make('contact');
-
-});
-
-
-Route::get('/choose_sim',function()
-{
-  return View::make('choose_sim');
-
-});
-
-
-
-Route::get('/get_sim',function()
-{
-  return View::make('get_sim');
-
-});
 
 Auth::routes();
-
-Route::get('/home', 'HomeController@index');
-
-
-//controller to be made below;
-Route::get('/user_details',function()
-{
-  return View::make('user_details');
-});

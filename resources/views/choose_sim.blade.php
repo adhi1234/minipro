@@ -19,15 +19,15 @@
 
                 <div class="panel-body">
                   Please provide the details for applying a new sim.
-<div class="panel-body">
+                  <div class="panel-body">
 
-Choose the type of SIM
+                      Choose the type of SIM
             {{ Form::select('status',array('prepaid'=>'Prepaid','postpaid'=>'PostPaid'),'Prepaid') }}
-<br> <br>
-Choose the number type:
-{{ Form::select('number_type',array('fancy'=>'Fancy','ordinary'=>'ordinary'),'Fancy') }}
-<br><br>
-<br>
+            <br> <br>
+            Choose the number type:
+            {{ Form::select('number_type',array('fancy'=>'Fancy','ordinary'=>'ordinary'),'Fancy') }}
+            <br><br>
+            <br>
             <div class="panel panel-primary">
               <div class="panel-heading">Choose the number of your choice</div>
               <div class="panel-body">
@@ -55,14 +55,9 @@ Choose the number type:
 
 
                           <button type="submit" class="btn btn-primary">
-                              Continue>>
+                              Continue
                           </button>
-
-
-
-
-
-</div>
+                      </div>
 
 
 
